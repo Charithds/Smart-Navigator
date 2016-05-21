@@ -1,0 +1,1 @@
+Smart Navigator is a robot that can navigate itself in an indoor area using a map. It uses WiFi signal strength in the areaposition tracking and images taken by the camera of the device for obstacle detection.
